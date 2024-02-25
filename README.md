@@ -1,4 +1,4 @@
-# Resolução da Prova da Code Plus. 
+# Resolução da Prova da Code Plus. Mais outros exercicios
 
 
 #### 1) Calculadora Simples:
