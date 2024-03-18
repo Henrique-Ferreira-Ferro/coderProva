@@ -69,6 +69,12 @@ public class Cliente {
 	public void SetPedidos(Pedido pedido) {
 		this.pedidos.add(pedido);
 	}
+
+	@Override
+	public String toString() {
+		return "Cliente [nome=" + nome + ", endereco=" + endereco + ", numTelefone=" + numTelefone + ", email=" + email
+				+ ", pedidos=" + pedidos + "]";
+	}
 	
 	
 }
